@@ -1,0 +1,66 @@
+    p{
+        font-family:Arial;
+        font-size: 14px;
+
+    }
+    .image1{
+        display: block;
+        width:80%;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+    .search_bar{
+       
+        
+        height: 32px;      
+        border-width: 1px;
+        padding-left: 20px;
+        border-radius: 2px;
+        width: 600px;
+    }
+    .search_bar::placeholder{
+        font-size: 16px;
+        
+    }
+    .v1{
+        display: block;
+     margin-right: 0px;
+
+    }   
+ 
+    
+   
+
+   
+    .v2{
+        display:block;
+        display: grid;
+        grid-template-columns: 45px 1fr;
+        
+    }
+    .prof1{     
+        width: 40px;      
+       
+        margin-top: 10px;
+        margin-right:5px;
+        border-radius: 20px;
+    }
+    
+    .p1{
+    margin-bottom: 1px;
+    margin-left: 10px;
+    width: 400px;
+    font-weight: bold;
+    }
+    .p2{
+        margin-top: 15px;
+        margin-bottom: 5px;
+        margin-bottom: 1px;
+        margin-left: 10px;
+        color: grey;
+    }
+    .p3{
+        margin: 0px;
+        margin-left: 10px;
+        color: grey;
+    }
